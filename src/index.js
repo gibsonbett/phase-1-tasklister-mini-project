@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     submitBtn(e.target.input.value)
   })
  
-
 })
   function submitBtn(task){
     let ul = document.getElementById('tasks')
